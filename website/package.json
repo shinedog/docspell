@@ -8,7 +8,7 @@
         "@tailwindcss/forms": "^0.4.0",
         "autoprefixer": "^10.4",
         "cssnano": "^5.0",
-        "postcss": "^8.4.5",
+        "postcss": "^8.4.31",
         "postcss-cli": "^9.1.0",
         "postcss-import": "^14.0.2",
         "postcss-purgecss": "^2.0.3",
